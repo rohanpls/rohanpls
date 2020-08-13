@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi, I'm Rohan 👨🏻‍💻
+
+<img src="http://rohanpls.com/images/github-profile-banner.png" alt="Rohan Shahshankar - Web designer and developer, System Administrator and Cybersec enthusiast">
+I'm a Sys Admin, intending to secure servers and maintain their stability, currently working at Flaunt7.
+I also do web designing and development as freelancing, open to find new opportunities.<br /><br />
+
+## Find me around the web 🌎:
+- Visit my <a href="https://rohanpls.com">website</a> 🌐
+- Connect with me on <a href="https://www.linkedin.com/in/rohanpls/">LinkedIn</a> 🔗
+- Android ROM development on <a href="https://forum.xda-developers.com/member.php?u=9697101">XDA Community</a> 🛠
 
 <!--
 **rohanpls/rohanpls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
