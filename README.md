@@ -4,13 +4,13 @@
 
 Just your average developer guy
 
-- 🔭 I used to be a DevOps Engineer (3 yoe).
+- 🔭 I'm a DevOps Engineer.
 
-- 🌱 I’m currently learning Python and making course material for newcomers
+- 🌱 I’m currently learning new languages; open to guide and mentor new comers in coding world.
 
 - 👯 Contributed to AOSP through: <a href="https://forum.xda-developers.com/member.php?u=9697101">XDA Community</a> 🛠
 
-- 📫 Check out my 2.5 yo <a href="https://rohanpls.com">website</a> 🌐
+- 📫 Check out my 3.5 yo <a href="https://rohanpls.com">website</a> 🌐
 
 - ⚡ I use Arch on M1 Macbook btw
 
