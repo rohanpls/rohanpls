@@ -2,7 +2,7 @@
 
 A very curious developer learning new things everyday.
 
-- 🔭 I'm a DevOps Engineer.
+- 🔭 I'm a Software Engineer.
 
 - 🌱 I’m currently learning Java Springboot; open to guide and mentor new comers with developer roadmap.
 
